@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-filipe-contratem/)
 [![Blog](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f_de_chico/)
  
- 
+
 ## Tecnologias que uso
  
 <div>
