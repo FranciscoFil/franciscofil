@@ -13,6 +13,7 @@
 <img alt="HTML 5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="HTML 5" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img alt="HTML 5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="HTML 5" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <br>
 Apaixonado por tecnologia e educação e esse repositorio tem sido mais utilizado para expor aulas de versionamento, mas ja estou começando a migrar meus projetos pessoais.
